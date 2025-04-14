@@ -1,16 +1,20 @@
-## Hi there 👋
+ Hi, I’m Kallol Chakrabarti  
+ Helix Originator | Research Innovator | DeSci Advocate
 
-<!--
-**HelixOriginator/HelixOriginator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Originator of the “Helix Originator” Concept — a novel framework in the frontier of decentralized science and innovation.
 
-Here are some ideas to get you started:
+Academic Contributions:
+4 Publications  
+1 Patent  Pending
+ Multiple Copyrights: 12 Copyrights (Govt of India), 1 International Copyright (Autorali)  
+Explore my Work  on Zenodo: https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Explore My Work:
+DeSci Nodes: https://nodes.desci.com/nodes 
+bio.link/helixoriginator 
+
+🌱 What I Believe In 
+ “Ideas grow best when they’re shared freely.”
+
+💡 Let’s collaborate in the future of open science!
+
