@@ -8,8 +8,8 @@ Originator of the Helix Originator concept — a novel framework advancing decen
 🔬 Academic & Creative Contributions  
 - Founder of the Helix Doctrine – Published on Zenodo  
 - 4 Publications, 1 Patent Pending, 15+ Copyrights
-  - 14 with the Govt. of India
-  - 1 International (Autorali)
+   14 with the Govt. of India
+  1 International (Autorali)
 - 16 out of 35 articles scored 90+ in Novelty Content, including 3 perfect scores
 - Harvard Certification on Rhetoric & Persuasive Writing
 
