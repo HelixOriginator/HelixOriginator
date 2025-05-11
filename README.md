@@ -1,5 +1,5 @@
  👋 Hi, I’m Kallol Chakrabarti  
-Helix Originator | Research Innovator | DeSci Advocate
+Helix Originator | Research Innovator | DeSci Advocate | Course Creator & Web App Developer
 
 Originator of the Helix Originator concept — a novel framework advancing decentralized science, innovation, and human potential.
 
