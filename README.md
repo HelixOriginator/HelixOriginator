@@ -1,5 +1,7 @@
  👋 Hi, I’m Kallol Chakrabarti  
 Helix Originator | Research Innovator | DeSci Advocate | Course Creator & Web App Developer
+Author of Silent Wars (2025) — now available on Amazon Kindle.
+https://www.amazon.com/dp/B0FBBJJC8D 
 
 Originator of the Helix Originator concept — a novel framework advancing decentralized science, innovation, and human potential.
 
@@ -7,7 +9,7 @@ Originator of the Helix Originator concept — a novel framework advancing decen
 
 🔬 Academic & Creative Contributions  
 - Founder of the Helix Doctrine – Published on Zenodo  
-- 4 Publications, 1 Patent Pending, 17 Copyrights
+- 4 Publications, 1 Patent Pending, 18 Copyrights
    16 with the Govt. of India
   1 International (Autorali)
 - 21 out of 47 articles scored 90 and above in Novelty Content, including 4 perfect scores
