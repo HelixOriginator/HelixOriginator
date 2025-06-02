@@ -2,6 +2,10 @@
 Helix Originator | Research Innovator | DeSci Advocate | Course Creator & Web App Developer
 Author of Silent Wars (2025) — now available on Amazon Kindle.
 https://www.amazon.com/dp/B0FBBJJC8D 
+https://helixoriginator.github.io/ghostwriter-website/
+Ghostwriting | Publishing | Research
+Creator of HelixOriginator. I help authors bring their books to life through professional ghostwriting, editing, cover design, and publishing services.
+
 
 Originator of the Helix Originator concept — a novel framework advancing decentralized science, innovation, and human potential.
 
