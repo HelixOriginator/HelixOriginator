@@ -16,7 +16,7 @@ Originator of the Helix Originator concept — a novel framework advancing decen
 - 4 Publications, 1 Patent Pending, 18 Copyrights
    16 with the Govt. of India
   1 International (Autorali)
-- 21 out of 47 articles scored 90 and above in Novelty Content, including 4 perfect scores
+- 23 out of 48 articles scored 90 and above in Novelty Content, including 4 perfect scores
 - Harvard Certification on Rhetoric & Persuasive Writing
 
 
