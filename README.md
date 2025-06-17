@@ -30,6 +30,24 @@ Contributed an 8-point strategy to elevate DeSci Lab’s visibility, engagement,
 ✅ Summary submitted post-Zoom via formal memo
  
  One of my concepts appreciated by ILO and ILR reviewers
+  🌿 Interdisciplinary Research & Preprints
+
+ 🧬 Synergizing Biology, Technology, and Culture  
+OSF Preprint | Concept Framework for Bio-Integrated Rural Futures  
+Introduces a novel systems framework—Bio-Integrated Smart Villages (BISV)—that links biological intelligence with emerging tech and cultural contexts in rural development.  
+📝  now available as a moderated preprint.  
+🔗 [Read on OSF](https://osf.io)  
+📊 Views: 5 | Downloads: 16 ( Date: 6/17/2025) 
+💡 Positioned for ongoing dialogue across sustainability, decentralized innovation, and rural systems design.
+
+
+
+ 🏆 SSRN Recognition: Strategic Thought from an Indigenous Lens  
+Top Paper | SSRN eJournals (June 17, 2025)  
+Śāstra and Śakti: An Analysis of Operation Sindoor  
+Recognized across multiple SSRN eJournals for its exploration of classical Indian strategy within a modern operational context.  
+🔗 [Read on SSRN](https://ssrn.com/abstract=5286196)
+
 
 
 
