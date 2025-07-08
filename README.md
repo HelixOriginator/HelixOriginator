@@ -24,8 +24,13 @@ My webapp link:   storied-alpaca-eeac69.netlify.app
 - 4 Publications, 1 Patent Pending, 20 Copyrights
    19 with the Govt. of India
   1 International (Autorali)
-- 24 out of 49 articles scored 90 and above in Novelty Content, including 4 perfect scores
-- Harvard Certification on Rhetoric & Persuasive Writing
+  24 out of 49 articles scored 90 and above in Novelty Content, including 4 perfect scores
+  Harvard Certification on Rhetoric & Persuasive Writing
+
+ Contribution Acknowledgement: Novelty Scoring Feedback
+In July 2025, I submitted feedback to the DeSci Lab team on how “unknown” context novelty scores are interpreted in their system. My suggestion was acknowledged, forwarded to their product team for consideration in future updates, and I was invited to resubmit a revised manuscript incorporating this input.
+
+This recognition reflects my ability to spot meaningful gaps in algorithmic logic and contribute to more accurate, user-aligned systems in scientific publishing and AI-assisted research.
 
 
 
