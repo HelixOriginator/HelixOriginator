@@ -21,6 +21,8 @@ https://kallolchitralimagi.wixsite.com/skillmatch-services
 
 https://kallolchakrabarti.carrd.co/ 
 
+https://www.mixo.io/site/kallol-strategies-q1g1a 
+
 
 
 
