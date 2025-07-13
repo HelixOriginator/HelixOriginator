@@ -27,10 +27,9 @@ https://kallolchakrabarti.carrd.co/
 
 
 🔬 Academic & Creative Contributions  
-- Founder of the Helix Doctrine – Published on Zenodo  
-- 4 Publications, 1 Patent Pending, 22 Copyrights
-   21 with the Govt. of India
-  1 International (Autorali)
+ Founder of the Helix Doctrine – Published on Zenodo  
+4 Publications, 1 Patent Pending, 22 Copyrights
+   Publications & Copyrights: 4 journal publications, 21 Indian copyrights spanning a wide range of subjects (not limited to a single niche like poetry or music), and 1 international copyright (Autorali)
   24 out of 49 articles scored 90 and above in Novelty Content, including 4 perfect scores
   Harvard Certification on Rhetoric & Persuasive Writing
 
