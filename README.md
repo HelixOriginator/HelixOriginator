@@ -35,6 +35,9 @@ https://www.mixo.io/site/kallol-strategies-q1g1a
   24 out of 49 articles scored 90 and above in Novelty Content, including 4 perfect scores
   Harvard Certification on Rhetoric & Persuasive Writing
 
+  Peer-reviewed on Zenodo (CERN) by Adrian Constantin Burlacu, a jurist and scientific researcher at Dunărea de Jos University of Galați, Romania.
+View on Zenodo: https://zenodo.org/records/14632981 
+
  Contribution Acknowledgement: Novelty Scoring Feedback
 In July 2025, I submitted feedback to the DeSci Lab team on how “unknown” context novelty scores are interpreted in their system. My suggestion was acknowledged, forwarded to their product team for consideration in future updates, and I was invited to resubmit a revised manuscript incorporating this input.
 
