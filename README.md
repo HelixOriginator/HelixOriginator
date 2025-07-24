@@ -5,6 +5,23 @@ https://www.amazon.com/dp/B0FBBJJC8D
 https://helixoriginator.github.io/ghostwriter-website/
 Ghostwriting | Publishing | Research
 Creator of HelixOriginator. I help authors bring their books to life through professional ghostwriting, editing, cover design, and publishing services.
+📌 Note to Reviewers
+All claims listed in this ORCID profile are supported by publicly available materials on my GitHub repository:
+🔗 https://github.com/your-username
+
+This includes:
+
+Certificates from academic, research, and policy programs
+
+Supporting documents and prototypes for DeSci Nodes submissions
+
+Source files and data for publications on SSRN, Zenodo, OSF, and other platforms
+
+Evidence of copyright registrations and patent filings
+
+Policy proposals submitted to national and international bodies
+
+I use GitHub as an open archive to provide transparency, evidence, and reproducibility. Reviewers are encouraged to explore both this ORCID profile and the linked GitHub page to understand the full scope and context of my work.
 
 
 Originator of the Helix Originator concept — a novel framework advancing decentralized science, innovation, and human potential.
