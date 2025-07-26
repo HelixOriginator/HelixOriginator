@@ -52,6 +52,8 @@ https://www.mixo.io/site/kallol-strategies-q1g1a
   24 out of 49 articles scored 90 and above in Novelty Content, including 4 perfect scores
   Harvard Certification on Rhetoric & Persuasive Writing
 
+  Researcher in authorship, AI ethics, and digital culture. Latest paper on ResearchHub: https://www.researchhub.com/post/4252/cultural-bias-in-plagiarism-detection-rethinking-authorship-in-the-digital-age 
+
    Verifiable Impact & Policy Engagement
 
 My research model emphasizes a full-cycle approach from ideation to real-world implementation. This commitment is demonstrated through a verifiable record of digital impact and direct policy engagement.
