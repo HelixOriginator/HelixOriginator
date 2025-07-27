@@ -54,6 +54,9 @@ https://www.mixo.io/site/kallol-strategies-q1g1a
 
   Researcher in authorship, AI ethics, and digital culture. Latest paper on ResearchHub: https://www.researchhub.com/post/4252/cultural-bias-in-plagiarism-detection-rethinking-authorship-in-the-digital-age 
 
+  
+Engaged in academic discussions and research sharing on r/Scholar.
+
    Verifiable Impact & Policy Engagement
 
 My research model emphasizes a full-cycle approach from ideation to real-world implementation. This commitment is demonstrated through a verifiable record of digital impact and direct policy engagement.
