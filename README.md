@@ -1,6 +1,6 @@
  👋 Hi, I’m Kallol Chakrabarti 
- 
- My research has been downloaded over 950 times across platforms including Zenodo (691+) and SSRN (270+).
+ My research has been downloaded over 1250 times across platforms including Zenodo (862+) , SSRN (316+) Figshare( 56 +)
+Ranked in the top 10% of over 2.3 million authors worldwide on SSRN (Social Science Research Network), based on author impact and readership statistics.
  
 Helix Originator | Research Innovator | DeSci Advocate | Course Creator & Web App Developer
 Author of Silent Wars (2025) — now available on Amazon Kindle.
