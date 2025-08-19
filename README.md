@@ -1,6 +1,7 @@
- 👋 Hi, I’m Kallol Chakrabarti 
- My research has been downloaded over 1250 times across platforms including Zenodo (862+) , SSRN (316+) Figshare( 56 +)
+ 👋 Hi, I’m Kallol Chakrabarti
+ My research has been downloaded over 1400 times across platforms including Zenodo (975+) , SSRN (319+) Figshare( 56 +)
 Ranked in the top 10% of over 2.3 million authors worldwide on SSRN (Social Science Research Network), based on author impact and readership statistics.
+I filed a provisional patent (No. 202411090481, Indian Patent Office, 21/11/2024), advancing novel concepts eligible for international protection via the PCT system.
  
 Helix Originator | Research Innovator | DeSci Advocate | Course Creator & Web App Developer
 Author of Silent Wars (2025) — now available on Amazon Kindle.
@@ -11,6 +12,7 @@ Creator of HelixOriginator. I help authors bring their books to life through pro
 📌 Note to Reviewers
 All claims listed in this ORCID profile are supported by publicly available materials on my GitHub repository:
 🔗 https://github.com/your-username
+
 
 This includes:
 
