@@ -3,6 +3,7 @@ My research has been downloaded over 1700  times across platforms including Zeno
 Ranked in the top 10% of over 2.3 million authors worldwide on SSRN (Social Science Research Network), based on author impact and readership statistics.  
  I filed a provisional patent (No. 202411090481, Indian Patent Office, 21/11/2024), advancing novel concepts eligible for international protection via the PCT system.
  “The highest number of documented and verifiable independent research contributions by an unaffiliated researcher globally.”
+ Creator of the global concept "YouTube University."
 
 
 Helix Originator | Research Innovator | DeSci Advocate | Course Creator & Web App Developer
