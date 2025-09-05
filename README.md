@@ -60,7 +60,7 @@ https://www.mixo.io/site/kallol-strategies-q1g1a
  Founder of the Helix Doctrine – Published on Zenodo  
 4 Publications, 1 Patent Pending, 25 Copyrights,
    Publications & Copyrights: 4 journal publications, 24 Indian copyrights spanning a wide range of subjects (not limited to a single niche like poetry or music), and 1 international copyright (Autorali)
-  24 out of 49 articles scored 90 and above in Novelty Content, including 4 perfect scores
+  25 out of 53 articles scored 90 and above in Novelty Content, including 4 perfect scores
   Harvard Certification on Rhetoric & Persuasive Writing
 
   Researcher in authorship, AI ethics, and digital culture. Latest paper on ResearchHub: https://www.researchhub.com/post/4252/cultural-bias-in-plagiarism-detection-rethinking-authorship-in-the-digital-age 
@@ -88,6 +88,10 @@ View on Zenodo: https://zenodo.org/records/14632981
 In July 2025, I submitted feedback to the DeSci Lab team on how “unknown” context novelty scores are interpreted in their system. My suggestion was acknowledged, forwarded to their product team for consideration in future updates, and I was invited to resubmit a revised manuscript incorporating this input.
 
 This recognition reflects my ability to spot meaningful gaps in algorithmic logic and contribute to more accurate, user-aligned systems in scientific publishing and AI-assisted research.
+Systematic Analysis of Misconceptions in Indian Constitutional, Dharmic, and Historical Narratives: A Four-Tier Evidence Framework
+https://works.hcommons.org/records/6cy8b-5hz16
+
+
 Debunking Civilizational Myths: An Expanded Ready Reckoner on India’s Constitutional, Dharmic, and Historical Narratives
 https://nodes.desci.com/node/OeFMyixytT1CauzIPd2ALO1WhqbckM_5oEcBqdFg47s
 
