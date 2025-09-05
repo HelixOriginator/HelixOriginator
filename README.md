@@ -90,7 +90,7 @@ In July 2025, I submitted feedback to the DeSci Lab team on how “unknown” co
 This recognition reflects my ability to spot meaningful gaps in algorithmic logic and contribute to more accurate, user-aligned systems in scientific publishing and AI-assisted research.  
 
 Systematic Analysis of Misconceptions in Indian Constitutional, Dharmic, and Historical Narratives: A Four-Tier Evidence Framework
-https://works.hcommons.org/records/6cy8b-5hz16
+
 
 
 Debunking Civilizational Myths: An Expanded Ready Reckoner on India’s Constitutional, Dharmic, and Historical Narratives
