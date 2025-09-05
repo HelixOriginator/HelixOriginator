@@ -87,7 +87,8 @@ View on Zenodo: https://zenodo.org/records/14632981
  Contribution Acknowledgement: Novelty Scoring Feedback
 In July 2025, I submitted feedback to the DeSci Lab team on how “unknown” context novelty scores are interpreted in their system. My suggestion was acknowledged, forwarded to their product team for consideration in future updates, and I was invited to resubmit a revised manuscript incorporating this input.
 
-This recognition reflects my ability to spot meaningful gaps in algorithmic logic and contribute to more accurate, user-aligned systems in scientific publishing and AI-assisted research.
+This recognition reflects my ability to spot meaningful gaps in algorithmic logic and contribute to more accurate, user-aligned systems in scientific publishing and AI-assisted research.  
+
 Systematic Analysis of Misconceptions in Indian Constitutional, Dharmic, and Historical Narratives: A Four-Tier Evidence Framework
 https://works.hcommons.org/records/6cy8b-5hz16
 
