@@ -37,6 +37,11 @@ My webapp link:   storied-alpaca-eeac69.netlify.app
 
 https://sites.google.com/view/worldfirstconcepts/home
 
+My work focuses on addressing misinformation and safeguarding democratic processes. In 2025, I authored a ready reckoner on countering electoral misinformation (published on DeSci Labs), which was formally acknowledged by the Election Commission of India.
+
+LEGAL LITERACY FRAMEWORK FOR INDIAN COLLEGE STUDENTS: A COMPREHENSIVE STUDY OF INDIA'S NEW CRIMINAL LAWS (2024)
+https://zenodo.org/records/17073019
+
 
 
 [Visit Shopleads Business](https://shopleads-business.netlify.app)
