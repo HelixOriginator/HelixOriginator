@@ -14,7 +14,7 @@ Ghostwriting | Publishing | Research
 Creator of HelixOriginator. I help authors bring their books to life through professional ghostwriting, editing, cover design, and publishing services.
 📌 Note to Reviewers
 All claims listed in this ORCID profile are supported by publicly available materials on my GitHub repository:
-🔗 https://github.com/your-username
+
 
 
 This includes:
