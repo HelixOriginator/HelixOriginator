@@ -39,6 +39,7 @@ https://sites.google.com/view/worldfirstconcepts/home
 
 My work focuses on addressing misinformation and safeguarding democratic processes. In 2025, I authored a ready reckoner on countering electoral misinformation (published on DeSci Labs), which was formally acknowledged by the Election Commission of India.
 https://www.zotero.org/kallolchitrali/items/8YXTJZK9/item-list
+
 https://scholar.google.com/citations?user=ixmIlRAAAAAJ&hl=en
 
 LEGAL LITERACY FRAMEWORK FOR INDIAN COLLEGE STUDENTS: A COMPREHENSIVE STUDY OF INDIA'S NEW CRIMINAL LAWS (2024)
