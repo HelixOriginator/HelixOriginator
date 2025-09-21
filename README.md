@@ -80,16 +80,7 @@ Engaged in academic discussions and research sharing on r/Scholar.
 
 My research model emphasizes a full-cycle approach from ideation to real-world implementation. This commitment is demonstrated through a verifiable record of digital impact and direct policy engagement.
 
-Direct Policy Impact:  Authored and submitted  14 comprehensive policy proposals to national-level government bodies in India (including NITI Aayog), state governments, and international organizations. These proposals are aimed at translating original research into actionable frameworks for governance, security, and economic development.
-   
-
-Academic & Digital Reach: My work has achieved significant traction in the open science community, with key metrics including:
-    205+ Downloads  on SSRN for five initial papers.
-      Placement in the  Top 15 % of over 2.3 million authors on SSRN.
-    
-
-
-  Peer-reviewed on Zenodo (CERN) by Adrian Constantin Burlacu, a jurist and scientific researcher at Dunărea de Jos University of Galați, Romania.
+ Peer-reviewed on Zenodo (CERN) by Adrian Constantin Burlacu, a jurist and scientific researcher at Dunărea de Jos University of Galați, Romania.
 View on Zenodo: https://zenodo.org/records/14632981 
 
  Contribution Acknowledgement: Novelty Scoring Feedback
