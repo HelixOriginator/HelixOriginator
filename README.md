@@ -1,11 +1,8 @@
  👋 Hi, I’m Kallol Chakrabarti
 Kallol Chakrabarti is an Independent Researcher, Helix Originator, and Founder of Docu Helix.
 
+Kallol Chakrabarti, a leading independent researcher, has accumulated over 3,350 downloads across 235 DOIs. His work has been downloaded across multiple platforms, including Zenodo (2,500), SSRN (506), OSF (59), Figshare (75), and OUCI (11). According to SSRN metrics, he ranks within the top 7% of all authors on the platform. Considering total documented downloads globally, he is ranked among the top 2% of researchers and recognized as the top independent researcher worldwide.
 
-Kallol Chakrabarti is an Independent Researcher, Helix Originator, and Founder of Docu Helix. With around 3,200 downloads across SSRN, Zenodo, and other platforms, he is recognized as a leading independent researcher with global readership.
-
-On SSRN, he ranks in the top 7 % of authors globally with 506+ downloads ON SSRN, reflecting strong readership and engagement with his interdisciplinary research.
-My research has been downloaded over 3200 times across platforms including Zenodo (2500) , SSRN (506) Figshare( 75) OSF ( 59) etc.
 Ranked in the top 7 % of over 2.5 million authors worldwide on SSRN (Social Science Research Network), based on author impact and readership statistics. 
  I filed a provisional patent (No. 202411090481, Indian Patent Office, 21/11/2024), advancing novel concepts eligible for international protection via the PCT system.
  “The highest number of documented and verifiable independent research contributions by an unaffiliated researcher globally.”
