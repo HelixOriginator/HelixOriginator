@@ -13,8 +13,7 @@ Kallol Chakrabarti, a leading independent researcher, has accumulated over 3,450
 Ranked in the top 7 % of over 2.5 million authors worldwide on SSRN (Social Science Research Network), based on author impact and readership statistics. 
  I filed a provisional patent (No. 202411090481, Indian Patent Office, 21/11/2024), advancing novel concepts eligible for international protection via the PCT system.
  “The highest number of documented and verifiable independent research contributions by an unaffiliated researcher globally.”
- Creator of the global concept "YouTube University."   Currebtly he has over 3200 total downloads across all platforms which puts him among 1% of authors globally.
-
+ Creator of the global concept "YouTube University."  
 
 Helix Originator | Research Innovator | DeSci Advocate | Course Creator & Web App Developer
 Author of Silent Wars (2025) — now available on Amazon Kindle.
