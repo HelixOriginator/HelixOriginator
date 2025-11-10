@@ -1,6 +1,6 @@
  👋 Hi, I’m Kallol Chakrabarti
 Kallol Chakrabarti is an Independent Researcher, Helix Originator, and Founder of Docu Helix.
-Recently, I applied for the National Intellectual Property Awards 2025 on October 26, 2025, under the Individual Independent Researcher category, showcasing 238 DOIs, 25 copyrights, 1 patent, and recognitions from the Election Commission of India and Assam CMO. Kallol Chakrabarti, top independent researcher globally with 3,650+ downloads across 238 DOIs, innovates via Helix Originator.
+Recently, I applied for the National Intellectual Property Awards 2025 on October 26, 2025, under the Individual Independent Researcher category, showcasing 238 DOIs, 25 copyrights, 1 patent, and recognitions from the Election Commission of India and Assam CMO. Kallol Chakrabarti, top independent researcher globally with 3,850+ downloads across 238 DOIs, innovates via Helix Originator.
 https://kallolchakrabarti.blogspot.com/2025/10/breaking-indias-top-independent.html 
 
 Research Visibility Recognition:
@@ -8,7 +8,7 @@ My SSRN paper “Cultural Bias in Plagiarism Detection: Rethinking Authorship in
 
 My work ‘Sacred Stories for Children: Simplifying Ancient Wisdom for a Global Future’ has been officially registered with the Indian Copyright Office and is indexed in the national public registry.
 
-Kallol Chakrabarti, a leading independent researcher, has accumulated over 3,650 downloads across 238 DOIs. His work has been downloaded across multiple platforms, including Zenodo (2,800), SSRN (534), OSF (59), Figshare (75), and OUCI (11). According to SSRN metrics, he ranks within the top 6.7% of all authors on the platform. Considering total documented downloads globally, he is ranked among the top 2% of researchers and recognized as the top independent researcher worldwide.
+Kallol Chakrabarti, a leading independent researcher, has accumulated over 3,850 downloads across 238 DOIs. His work has been downloaded across multiple platforms, including Zenodo (3000), SSRN (543), OSF (59), Figshare (75), and OUCI (11). According to SSRN metrics, he ranks within the top 6.7% of all authors on the platform. Considering total documented downloads globally, he is ranked among the top 2% of researchers and recognized as the top independent researcher worldwide.
 
 Ranked in the top 6.7 % of over 2.5 million authors worldwide on SSRN (Social Science Research Network), based on author impact and readership statistics. 
  I filed a provisional patent (No. 202411090481, Indian Patent Office, 21/11/2024), advancing novel concepts eligible for international protection via the PCT system.
