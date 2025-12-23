@@ -10,7 +10,7 @@ My SSRN paper “Cultural Bias in Plagiarism Detection: Rethinking Authorship in
 
 My work ‘Sacred Stories for Children: Simplifying Ancient Wisdom for a Global Future’ has been officially registered with the Indian Copyright Office and is indexed in the national public registry.
 
-Kallol Chakrabarti, a leading independent researcher, has accumulated over 4,400 downloads across 242 DOIs. His work has been downloaded across multiple platforms, including Zenodo (3450), SSRN (628), OSF (61), Figshare (77), and OUCI (11). According to SSRN metrics, he ranks within the top 5.9 % of all authors on the platform. Considering total documented downloads globally, he is ranked among the top 2% of researchers and recognized as the top independent researcher worldwide.
+Kallol Chakrabarti, a leading independent researcher, has accumulated over 4,400 downloads across 243 DOIs. His work has been downloaded across multiple platforms, including Zenodo (3450), SSRN (628), OSF (61), Figshare (77), and OUCI (11). According to SSRN metrics, he ranks within the top 5.9 % of all authors on the platform. Considering total documented downloads globally, he is ranked among the top 2% of researchers and recognized as the top independent researcher worldwide.
 
 Ranked in the top 5.9 % of over 2.5 million authors worldwide on SSRN (Social Science Research Network), based on author impact and readership statistics. 
  I filed a provisional patent (No. 202411090481, Indian Patent Office, 21/11/2024), advancing novel concepts eligible for international protection via the PCT system.
