@@ -1,11 +1,11 @@
  👋 Hi, I’m Kallol Chakrabarti     
 
-World-first research archive: 254 DOIs & 190+ frameworks. Includes Bharat Ekta Mission, MACN Protocol, & Vedic AI Ethics. By Kallol Chakrabarti.
+World-first research archive: 255 DOIs & 190+ frameworks. Includes Bharat Ekta Mission, MACN Protocol, & Vedic AI Ethics. By Kallol Chakrabarti.
 
 
 Contact: kallolchitralimagicpen@gmail.com
 Kallol Chakrabarti is an Independent Researcher, Helix Originator, and Founder of Docu Helix.
-Recently, I applied for the National Intellectual Property Awards 2025 on October 26, 2025, under the Individual Independent Researcher category, showcasing 254 DOIs, 25 copyrights, 1 patent, and recognitions from the Election Commission of India and Assam CMO. Kallol Chakrabarti, top independent researcher globally with 5,000+ downloads across 254 DOIs, innovates via Helix Originator.
+Recently, I applied for the National Intellectual Property Awards 2025 on October 26, 2025, under the Individual Independent Researcher category, showcasing 255 DOIs, 25 copyrights, 1 patent, and recognitions from the Election Commission of India and Assam CMO. Kallol Chakrabarti, top independent researcher globally with 5,000+ downloads across 255 DOIs, innovates via Helix Originator.
 Kallol Chakrabarti — known as “Kallol,” independent researcher and creator of the Kallol Wave Framework, recognized for contributions to governance innovation and ethical AI.
 
 https://kallolchakrabarti.blogspot.com/2025/10/breaking-indias-top-independent.html 
