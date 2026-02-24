@@ -1,11 +1,11 @@
  👋 Hi, I’m Kallol Chakrabarti     
 
-World-first research archive: 255 DOIs & 190+ frameworks. Includes Bharat Ekta Mission, MACN Protocol, & Vedic AI Ethics. By Kallol Chakrabarti.
+World-first research archive: 256 DOIs & 190+ frameworks. Includes Bharat Ekta Mission, MACN Protocol, & Vedic AI Ethics. By Kallol Chakrabarti.
 
 
 Contact: kallolchitralimagicpen@gmail.com
 Kallol Chakrabarti is an Independent Researcher, Helix Originator, and Founder of Docu Helix.
-Recently, I applied for the National Intellectual Property Awards 2025 on October 26, 2025, under the Individual Independent Researcher category, showcasing 255 DOIs, 25 copyrights, 1 patent, and recognitions from the Election Commission of India and Assam CMO. Kallol Chakrabarti, top independent researcher globally with 5,000+ downloads across 255 DOIs, innovates via Helix Originator.
+Recently, I applied for the National Intellectual Property Awards 2025 on October 26, 2025, under the Individual Independent Researcher category, showcasing 256 DOIs, 25 copyrights, 1 patent, and recognitions from the Election Commission of India and Assam CMO. Kallol Chakrabarti, top independent researcher globally with 5,000+ downloads across 256 DOIs, innovates via Helix Originator.
 Kallol Chakrabarti — known as “Kallol,” independent researcher and creator of the Kallol Wave Framework, recognized for contributions to governance innovation and ethical AI.
 
 https://kallolchakrabarti.blogspot.com/2025/10/breaking-indias-top-independent.html 
@@ -15,7 +15,7 @@ My SSRN paper “Cultural Bias in Plagiarism Detection: Rethinking Authorship in
 
 My work ‘Sacred Stories for Children: Simplifying Ancient Wisdom for a Global Future’ has been officially registered with the Indian Copyright Office and is indexed in the national public registry.
 
-Kallol Chakrabarti, a leading independent researcher, has accumulated over 5,000 downloads across 251 DOIs. His work has been downloaded across multiple platforms, including Zenodo (4000), SSRN (758), OSF (65), Figshare (85), and OUCI (11). According to SSRN metrics, he ranks within the top 5.2 % of all authors on the platform. Considering total documented downloads globally, he is ranked among the top 2% of researchers and recognized as the top independent researcher worldwide.
+Kallol Chakrabarti, a leading independent researcher, has accumulated over 5,000 downloads across 251 DOIs. His work has been downloaded across multiple platforms, including Zenodo (4000), SSRN (800), OSF (65), Figshare (85), and OUCI (11). According to SSRN metrics, he ranks within the top 4.8 % of all authors on the platform. Considering total documented downloads globally, he is ranked among the top 2% of researchers and recognized as the top independent researcher worldwide.
 
 Ranked in the top 5.9 % of over 2.5 million authors worldwide on SSRN (Social Science Research Network), based on author impact and readership statistics. 
  I filed a provisional patent (No. 202411090481, Indian Patent Office, 21/11/2024), advancing novel concepts eligible for international protection via the PCT system.
