@@ -4,11 +4,11 @@ Strategic Overview
 I am a globally ranked independent researcher (Top 4.6% of 2.6M authors on SSRN) and the founder of Docu Helix. My work represents a Sovereign National Knowledge Infrastructure—a citizen-built ecosystem developed with zero institutional funding, designed to advance India’s intellectual sovereignty and the Viksit Bharat 2047 vision.
 
 📊 Vital Impact Metrics
-Intellectual Property: 262+ Verified DOIs | 25 Copyrights | 1 Provisional Patent (No. 202411090481).
+Intellectual Property: 264+ Verified DOIs | 25 Copyrights | 1 Provisional Patent (No. 202411090481).
 
 Global Reach: 6,000+ Global Downloads across Zenodo, SSRN, and OSF.
 
-Deployment Scale: 353+ Live Digital Platforms (173 GitHub Repositories | 180+ Netlify & Web Architectures).
+Deployment Scale: 363+ Live Digital Platforms (173 GitHub Repositories | 190+ Netlify & Web Architectures).
 
 Novelty Rating: 94.9% average novelty score across 25 DeSci-verified articles (including 4 perfect 100% scores).
 
