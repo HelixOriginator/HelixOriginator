@@ -8,7 +8,7 @@ Intellectual Property: 266+ Verified DOIs | 25 Copyrights | 1 Provisional Patent
 
 Global Reach: 6,000+ Global Downloads across Zenodo, SSRN, OSF, FIGSHARE, KNOWLEDGE COMMONS etc.
 
-Deployment Scale: 394+ Live Digital Platforms (184 GitHub Repositories | 210+ Netlify & Web Architectures).
+Deployment Scale: 394+ Live Digital Platforms (185 GitHub Repositories | 210+ Netlify & Web Architectures).
 
 Novelty Rating: 94.9% average novelty score across 25 DeSci-verified articles (including 4 perfect 100% scores).
 
