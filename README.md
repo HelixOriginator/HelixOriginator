@@ -1,14 +1,14 @@
 Kallol Chakrabarti | The Helix Originator
 Independent Researcher • Policy Architect • Invitee: National IP Awards 2026
 Strategic Overview
-I am a globally ranked independent researcher (Top 4.6% of 2.7M authors on SSRN) and the founder of Docu Helix. My work represents a Sovereign National Knowledge Infrastructure—a citizen-built ecosystem developed with zero institutional funding, designed to advance India’s intellectual sovereignty and the Viksit Bharat 2047 vision.
+I am a globally ranked independent researcher (Top 4.5% of 2.7M authors on SSRN) and the founder of Docu Helix. My work represents a Sovereign National Knowledge Infrastructure—a citizen-built ecosystem developed with zero institutional funding, designed to advance India’s intellectual sovereignty and the Viksit Bharat 2047 vision.
 
 📊 Vital Impact Metrics
 Intellectual Property: 264+ Verified DOIs | 25 Copyrights | 1 Provisional Patent (No. 202411090481).
 
-Global Reach: 5,500+ Global Downloads across Zenodo, SSRN, and OSF.
+Global Reach: 6,000+ Global Downloads across Zenodo, SSRN, and OSF.
 
-Deployment Scale: 387+ Live Digital Platforms (177 GitHub Repositories | 210+ Netlify & Web Architectures).
+Deployment Scale: 394+ Live Digital Platforms (184 GitHub Repositories | 210+ Netlify & Web Architectures).
 
 Novelty Rating: 94.9% average novelty score across 25 DeSci-verified articles (including 4 perfect 100% scores).
 
