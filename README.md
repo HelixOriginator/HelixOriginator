@@ -6,9 +6,9 @@ I am a globally ranked independent researcher (Top 3.93 % of 2.84M authors on SS
 📊 Vital Impact Metrics
 Intellectual Property: 272+ Verified DOIs | 25 Copyrights | 1 Provisional Patent (No. 202411090481).
 
-Global Reach: 6,000+ Global Downloads across Zenodo, SSRN, OSF, FIGSHARE, KNOWLEDGE COMMONS etc. Total SSRN Downloads: 1000
+Global Reach: 6,000+ Global Downloads across Zenodo, SSRN, OSF, FIGSHARE, KNOWLEDGE COMMONS etc. Total SSRN Downloads: 1040+
 
-Deployment Scale: 520+ Live Digital Platforms (220+ GitHub Repositories | 300+ Netlify & Web Architectures).
+Deployment Scale: 540+ Live Digital Platforms (227+ GitHub Repositories | 300+ Netlify & Web Architectures).
 
 Novelty Rating: 94.9% average novelty score across 25 DeSci-verified articles (including 4 perfect 100% scores).
 
